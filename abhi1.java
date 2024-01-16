@@ -1,20 +1,8 @@
-fgbxbbbbbbbbxff
-dfsbxfvxfbdn b
-fbvfxb xxfb
-vbxfnxfnggnxhj
-gnhfncgndnf
-ghrtgjtfhtffn
-ngncgncgncncnng
-ncgngnfthfjfjtr
-njfmfmfhhjjhh
-hghnmghfjffj
-gfhfhtfnjyjfjhf
-bgfbghdhnhdgd
-ytdtyiyjgjgf
-gnn
-cvdbdbdfbd
-fggvdgdgdgtr
-fjyjrjjjjjj
-fdddddddddththfhftd
-fgdddb
-gngcnnnnnnnnnnn
+class abhi1{
+  public static void main(String args[]){
+    int i,j;
+    for(i=1;i<n;i++){
+      System.out.println();
+    }
+  }
+}
